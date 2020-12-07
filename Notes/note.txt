@@ -1,0 +1,14 @@
+Ways to read input from console in Java
+
+
+
+
+1.Using Buffered Reader Class
+
+2. Using Scanner Class
+
+
+3. Using Console Class
+
+
+
